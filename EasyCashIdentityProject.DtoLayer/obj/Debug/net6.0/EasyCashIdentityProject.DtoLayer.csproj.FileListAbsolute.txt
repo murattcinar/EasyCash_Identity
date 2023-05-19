@@ -1,0 +1,14 @@
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.deps.json
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.runtimeconfig.json
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.AssemblyInfo.cs
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.genruntimeconfig.cache
+C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.DtoLayer.dll
