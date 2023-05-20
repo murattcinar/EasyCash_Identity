@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MuratCinar\Desktop\EasyCash\EasyCashIdentityProject\EasyCashIdentityProject.PresentationLayer
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MuratCinar/Desktop/EasyCash/EasyCashIdentityProject/EasyCashIdentityProject.PresentationLayer/Views/ConfirmMail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlybU1haWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MuratCinar/Desktop/EasyCash/EasyCashIdentityProject/EasyCashIdentityProject.PresentationLayer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MuratCinar/Desktop/EasyCash/EasyCashIdentityProject/EasyCashIdentityProject.PresentationLayer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MuratCinar/Desktop/EasyCash/EasyCashIdentityProject/EasyCashIdentityProject.PresentationLayer/Views/MyProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlQcm9maWxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MuratCinar/Desktop/EasyCash/EasyCashIdentityProject/EasyCashIdentityProject.PresentationLayer/Views/Register/Index.cshtml]
